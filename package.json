@@ -238,7 +238,7 @@
     "@buttercup/googledrive-client": "^2.3.0",
     "@buttercup/importer": "^3.1.0",
     "@buttercup/secure-file-host": "^0.3.0",
-    "@electron/remote": "^2.0.8",
+    "@electron/remote": "^2.1.2",
     "buttercup": "^7.7.1",
     "cors": "^2.8.5",
     "debounce": "^1.2.1",
